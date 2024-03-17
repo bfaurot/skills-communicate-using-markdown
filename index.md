@@ -5,3 +5,7 @@
 ``` PowerShell
 $myVar = "Hello, world!"
 ```
+
+- [x] Step 1: Steal Underpants
+- [ ] Step 2: ?
+- [ ] STep 3: Profit!
